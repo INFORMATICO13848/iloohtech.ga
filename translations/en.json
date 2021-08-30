@@ -1,0 +1,56 @@
+{
+    "general": {
+        "return_to_home": "Return to home",
+        "settings": "Settings",
+        "logout": "Logout"
+    },
+    "settings": {
+        "title": "Settings",
+        "language": "Language",
+        "set_language": "Set language",
+        "set_theme": "Set theme",
+        "dark_theme": "Dark",
+        "light_theme": "Light"
+    },
+    "signup": {
+        "title": "Signup",
+        "username": "Username...",
+        "password": "Password...",
+        "signup": "Signup"
+    },
+    "login": {
+        "title": "Login",
+        "username": "Username...",
+        "password": "Password...",
+        "login": "Login"
+    },
+    "hello": {
+        "title": "Hello ",
+        "at_a_glance": "At a glance",
+        "request_data": "Request your data",
+        "danger_zone": "Danger zone",
+        "for_you": "For you",
+        "hour": "Hour: ",
+        "date": "Date: ",
+        "services": "Services"
+    },
+    "danger_zone": {
+        "title": "Danger zone",
+        "delete_all_links": "Delete all your links",
+        "delete_account": "Delete account"
+    },
+    "error": {
+        "title": "Error"
+    },
+    "errors": {
+        "404": "Page not found.",
+        "400": "Malformed request.",
+        "405": "Method not allowed.",
+        "500": "Server error.",
+		"780": "Incorrect username.",
+		"781": "Incorrect password.",
+		"782": "This username is already in use.",
+		"783": "This username is longer than 30 characters.",
+		"784": "This password is longer than 30 characters."
+    }
+}
