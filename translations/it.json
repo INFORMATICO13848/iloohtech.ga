@@ -1,0 +1,56 @@
+{
+    "general": {
+        "return_to_home": "Ritorna alla home",
+        "settings": "Impostazioni",
+        "logout": "Logout"
+    },
+    "settings": {
+        "title": "Impostazioni",
+        "language": "Lingua",
+        "set_language": "Imposta lingua",
+        "set_theme": "Imposta tema",
+        "dark_theme": "Scuro",
+        "light_theme": "Chiaro"
+    },
+    "signup": {
+        "title": "Registrati",
+        "username": "Nome utente...",
+        "password": "Password...",
+        "signup": "Registrati"
+    },
+    "login": {
+        "title": "Login",
+        "username": "Nome utente...",
+        "password": "Password...",
+        "login": "Login"
+    },
+    "hello": {
+        "title": "Ciao ",
+        "at_a_glance": "A prima vista",
+        "request_data": "Richiedi i tuoi dati",
+        "danger_zone": "Zona di pericolo",
+        "for_you": "Per te",
+        "hour": "Ora: ",
+        "date": "Data: ",
+        "services": "Servizi"
+    },
+    "danger_zone": {
+        "title": "Zona di pericolo",
+        "delete_all_links": "Elimina tutti i tuoi link",
+        "delete_account": "Elimina account"
+    },
+    "error": {
+        "title": "Errore"
+    },
+    "errors": {
+        "404": "Pagina non trovata.",
+        "400": "Richiesta formulata in modo errato.",
+        "405": "Metodo non permesso.",
+        "500": "Errore del server.",
+		"780": "Username non corretto.",
+		"781": "Password errata.",
+		"782": "Questo nome utente è già in uso.",
+		"783": "Questo username è più lungo di 30 caratteri.",
+		"784": "Questa password è più lunga di 30 caratteri."
+    }
+}
